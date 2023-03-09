@@ -1,6 +1,7 @@
 > This is the old site for Funkin.me, I wrote it in pretty much pure HTML / CSS lol. Wanted to learn how websites and stuff worked!!! 
 > Postin it here to seperate it out from Funkin repo stuff hehe
 > - ninjamuffin99
+> 
 > can be viewed at https://funkincrew.github.io/old-funkin-site
 
 
